@@ -1,10 +1,4 @@
 const classdata = {
-    B5711M97: {
-        name: "微積分",
-        teacher: "李孟書",
-        time: ["108", "203", "204"],
-        place: ["INS105", "ECGB107", "ECGB107"],
-    },
     B57011RQ: {
         name: "計算機概論",
         teacher: "林韓禹",
@@ -17,17 +11,17 @@ const classdata = {
         time: ["206", "207"],
         place: ["ECG610", "ECG610"],
     },
-    B5701M33: {
-        name: "程式設計",
-        teacher: "張光遠",
-        time: ["302", "303", "304"],
-        place: ["ECG610", "ECG610", "ECG610"],
-    },
     B5701M30: {
         name: "程式設計實習",
         teacher: "張光遠",
         time: ["502", "503", "504"],
         place: ["INS301", "INS301", "INS301"],
+    },
+    B5701M33: {
+        name: "程式設計",
+        teacher: "張光遠",
+        time: ["302", "303", "304"],
+        place: ["ECG610", "ECG610", "ECG610"],
     },
     B5701NNX: {
         name: "服務學習_愛校服務(I)",
@@ -40,5 +34,23 @@ const classdata = {
         teacher: "蔡宇軒",
         time: ["402", "403", "404"],
         place: ["ECGB107", "ECGB107", "ECGB107"],
+    },
+    B5711M97: {
+        name: "微積分",
+        teacher: "李孟書",
+        time: ["108", "203", "204"],
+        place: ["INS105", "ECGB107", "ECGB107"],
+    },
+    B9K014DF: {
+        name: "國文（上）（國文領域）",
+        teacher: "孫亮球",
+        time: ["106", "107"],
+        place: ["INS105", "INS105"],
+    },
+    B9M01024: {
+        name: "人工智慧概論",
+        teacher: "鄭建富",
+        time: ["407", "408"],
+        place: ["ECG610", "ECG610"],
     },
 };
