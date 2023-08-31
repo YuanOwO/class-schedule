@@ -47,6 +47,12 @@ const classdata = {
         time: ["106", "107"],
         place: ["INS105", "INS105"],
     },
+    B9D01968: {
+        name: "英文(大一英文)",
+        teacher: "龔育緯",
+        time: ["201", "202"],
+        place: ["MAF623", "MAF623"],
+    },
     B9M01024: {
         name: "人工智慧概論",
         teacher: "鄭建富",

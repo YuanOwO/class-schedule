@@ -46,13 +46,14 @@ window.onload = () => {
                 div.innerText = schedule[t].name
                     .replace("_", "\n")
                     .replace("）（", "）\n（");
+                div.classList.add("fw-semibold");
 
                 // div = td.appendChild(document.createElement("div"));
                 // div.innerText = schedule[t].teacher;
 
                 div = td.appendChild(document.createElement("div"));
                 div.innerText = schedule[t].place;
-                div.classList.add("fw-light");
+                // div.classList.add("fw-light");
                 div.setAttribute("data-bs-toggle", "tooltip");
                 div.setAttribute("data-bs-placement", "bottom");
                 div.setAttribute(
