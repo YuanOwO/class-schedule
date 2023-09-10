@@ -41,6 +41,18 @@ const classdata = {
         time: ["108", "203", "204"],
         place: ["INS105", "ECGB107", "ECGB107"],
     },
+    B92E8G65: {
+        name: "重量訓練",
+        teacher: "曹校章",
+        time: ["306", "307"],
+        place: ["GYM102", "GYM102"],
+    },
+    B9M014T8: {
+        name: "中國文化史【人文探索】",
+        teacher: "吳蕙芳",
+        time: ["308", "309"],
+        place: ["BOH403", "BOH403"],
+    },
     B9K014DF: {
         name: "國文（上）（國文領域）",
         teacher: "孫亮球",
