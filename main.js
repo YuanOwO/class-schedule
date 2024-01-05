@@ -27,6 +27,7 @@ const CONF = {
         ADM: "行政大樓",
         BOH: "人文大樓",
         CC3: "電算中心三樓",
+        CC4: "電算中心四樓",
         "CE-": "工學院大樓",
         CLS: "生命科學院館",
         ECG: "電資暨綜合教學大樓",
@@ -34,7 +35,7 @@ const CONF = {
         EE2: "電機二館",
         FRB: "第一餐廳",
         FSB: "食安所館",
-        FSH: "漁學館",
+        FSH: "環漁系館",
         GH1: "綜合一館",
         GH2: "綜合二館",
         GH3: "綜合三館",
@@ -42,17 +43,18 @@ const CONF = {
         GYM: "體育館",
         HR1: "河工一館",
         HR2: "河工二館",
-        HRE: "河工一館",
+        HRE: "海工館",
         INS: "資工系館",
         IVY: "沛華大樓",
-        LIB: "圖書館大樓",
+        LIB: "圖書館",
         MAF: "海事大樓",
         MEA: "機械A館",
         MEB: "機械B館",
         MFE: "食科工程館",
-        MFS: "食科科學館",
+        MFS: "食品科學館",
+        "MZ-": "馬祖校區教學大樓",
         NAV: "商船大樓",
-        NVA: "系工系館",
+        NVA: "造船系館",
         OCE: "海洋系館",
         ODB: "海大意象館(海洋夢想基地)",
         SAC: "學生活動中心",
@@ -60,9 +62,17 @@ const CONF = {
         SPF: "體育場地",
         STA: "育樂館",
         STM: "航管大樓",
-        TEC: "技術大樓",
-        UAH: "系工系館",
+        TEC: "延平技術大樓",
+        UAH: "空蝕水槽",
     };
+// 樓館備註
+// 體育場地包括：
+//     籃球場、高爾夫練習場、排球場、
+//     操場、網球場、游泳池、健身房
+// 行政大樓包括：
+//     ADM001 海洋廳
+//     ADM002 第一演講廳
+//     ADM003 第二演講廳
 
 const SCHEDULE = (() => {
     let schedule = {};
@@ -120,6 +130,13 @@ const flash = () => {
                     .replace("【", "\n【")
                     .replace("）（", "）\n（");
                 div.classList.add("fw-semibold");
+
+                div.setAttribute("data-bs-toggle", "tooltip");
+                div.setAttribute("data-bs-placement", "top");
+                div.setAttribute(
+                    "data-bs-title",
+                    "教師：" + SCHEDULE[t].teacher
+                );
 
                 // div = td.appendChild(document.createElement("div"));
                 // div.innerText = SCHEDULE[t].teacher;
