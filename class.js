@@ -8,12 +8,6 @@
  */
 
 const classdata = {
-    B57011RS: {
-        name: "普通物理",
-        teacher: "張光遠",
-        time: ["302", "303", "304"],
-        place: ["ECGB107", "ECGB107", "ECGB107"],
-    },
     B570124N: {
         name: "程式競賽技巧導論",
         teacher: "許為元",
