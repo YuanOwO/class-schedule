@@ -80,12 +80,6 @@ const classdata = {
         time: ["403", "404"],
         place: ["BOH401", "BOH401"],
     },
-    B9M014UA: {
-        name: "刑法概要【社會脈動】",
-        teacher: "周成瑜",
-        time: ["406", "407"],
-        place: ["BOH403", "BOH403"],
-    },
     B9M01Z64: {
         name: "海洋科學概論",
         teacher: "廖正信",
