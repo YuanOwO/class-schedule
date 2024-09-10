@@ -2,7 +2,7 @@ console.log("Hello!", new Date());
 
 const CONF = {
         wds: 5,
-        seg: [1, 8],
+        seg: [Infinity, -Infinity],
     },
     WEEKDAYS = "一二三四五六日",
     TIME = [
@@ -79,6 +79,8 @@ const SCHEDULE = (() => {
     for (const code in classdata) {
         if (Object.hasOwnProperty.call(classdata, code)) {
             const cls = classdata[code];
+            if (typeof cls.time === "string") cls.time = cls.time.split(",");
+            if (typeof cls.place === "string") cls.place = cls.place.split(",");
             for (let i = 0; i < cls.time.length; i++) {
                 const t = cls.time[i] % 100,
                     w = (cls.time[i] - t) / 100;
