@@ -5,19 +5,35 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>課表</title>
-        <link rel="stylesheet" href="lib/bootstrap.min.css" />
-        <script src="lib/bootstrap.bundle.min.js"></script>
-        <script src="assets/class.js"></script>
-        <script src="main.js"></script>
+        <link rel="icon" href="/assets/favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" href="/lib/bootstrap.min.css" />
     </head>
     <body>
         <main class="container-md my-5">
-            <table
-                class="table table-striped table-hover table-bordered text-center align-middle"
-            >
+            <div class="row gx-3 justify-content-end align-items-center mb-3">
+                <div class="col-auto">
+                    <label for="semester" class="col-form-label">學期</label>
+                </div>
+                <div class="col-auto">
+                    <select id="semester" class="form-select" aria-label="選擇顯示哪學期的課表">
+                        <option value="1121">112-1</option>
+                        <option value="1122">112-2</option>
+                        <option value="1131">113-1</option>
+                        <option value="1132" selected>113-2</option>
+                    </select>
+                </div>
+            </div>
+            <table class="table table-striped table-hover table-bordered text-center align-middle">
                 <thead></thead>
-                <tbody></tbody>
+                <tbody class="table-group-divider"></tbody>
+                <caption class="text-end">
+                    &copy; 2023 - 2025 YuanOwO.
+                </caption>
             </table>
         </main>
+        <script src="/lib/bootstrap.bundle.min.js"></script>
+        <script src="/assets/constants.js"></script>
+        <script src="/main.js"></script>
     </body>
 </html>
