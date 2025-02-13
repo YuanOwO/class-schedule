@@ -24,6 +24,7 @@
                     </select>
                 </div>
             </div>
+
             <table class="table table-striped table-hover table-bordered text-center align-middle">
                 <thead></thead>
                 <tbody class="table-group-divider"></tbody>
@@ -32,6 +33,70 @@
                 </caption>
             </table>
         </main>
+
+        <!-- Modal -->
+        <div class="modal fade" id="infoModal" tabindex="-1">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h1 class="modal-title fs-5" id="exampleModalLabel">課程資訊</h1>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+                    <div class="modal-body">
+                        <table class="table">
+                            <tr>
+                                <th>課名</th>
+                                <td id="modal-name"></td>
+                            </tr>
+                            <tr>
+                                <th>課號</th>
+                                <td><code id="modal-code"></code></td>
+                            </tr>
+                            <tr>
+                                <th>教師</th>
+                                <td id="modal-teacher"></td>
+                            </tr>
+                            <tr>
+                                <th>班級</th>
+                                <td id="modal-grade"></td>
+                            </tr>
+                            <tr>
+                                <th>上課時間</th>
+                                <td id="modal-time"></td>
+                            </tr>
+                            <tr>
+                                <th>上課地點</th>
+                                <td id="modal-place"></td>
+                            </tr>
+                            <tr>
+                                <th>學分</th>
+                                <td id="modal-credit"></td>
+                            </tr>
+                            <tr>
+                                <th>選課類別</th>
+                                <td id="modal-category"></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">關閉</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <style>
+            .modal-body .table {
+                margin-bottom: 0;
+            }
+            .modal-body th {
+                width: 5rem;
+            }
+            .modal-body tr:last-child * {
+                border-bottom: none !important;
+            }
+        </style>
+
         <script src="/lib/bootstrap.bundle.min.js"></script>
         <script src="/assets/constants.js"></script>
         <script src="/main.js"></script>

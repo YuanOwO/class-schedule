@@ -99,6 +99,10 @@ const CONFIG = {
                     cls = SCHEDULE[t];
                 if (cls === undefined) td.innerText = "";
                 else {
+                    td.onclick = () => show_info(cls.code);
+                    // td.setAttribute("data-bs-toggle", "modal");
+                    // td.setAttribute("data-bs-target", "#infoModal");
+
                     div = td.appendChild(document.createElement("div"));
                     div.innerText = SCHEDULE[t].name.replace("_", "\n").replace("【", "\n【").replace("）（", "）\n（");
                     div.classList.add("fw-semibold");
@@ -124,6 +128,27 @@ const CONFIG = {
             let tips = document.querySelectorAll('[data-bs-toggle="tooltip"]');
             Array.from(tips).map((elem) => new bootstrap.Tooltip(elem));
         })();
+    },
+    MODAL_FIELDS = ["name", "code", "teacher", "grade", "time", "place", "credit", "category"],
+    show_info = (code) => {
+        const cls = SCHEDULE_DATA[document.getElementById("semester").value][code],
+            modal = new bootstrap.Modal("#infoModal");
+        console.log(cls);
+        modal.show();
+
+        for (const key of MODAL_FIELDS) {
+            let elem = document.getElementById(`modal-${key}`);
+            document.getElementById(`modal-${key}`).innerText = cls[key] || "N/A";
+            if (key === "code") {
+                elem.innerText = code;
+            } else if (!cls[key]) {
+                elem.innerText = "N/A";
+            } else if (key === "time" || key === "place") {
+                elem.innerText = cls[key].join(", ");
+            } else {
+                elem.innerText = cls[key];
+            }
+        }
     };
 
 window.addEventListener("load", () => {
