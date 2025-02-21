@@ -67,3 +67,24 @@ const BUILDINGS = {
 //     ADM001 海洋廳
 //     ADM002 第一演講廳
 //     ADM003 第二演講廳
+
+const MODAL_TITLE = {
+    pkno: "",
+    type: "",
+    semster: "學期",
+    code: "課程代碼",
+    name: "課程名稱",
+    department: "開課系所",
+    lecturer: "教師",
+    grade: "班級",
+    time: "上課時間",
+    classroom: "上課地點",
+    MUST: "選課類別",
+    credit: "學分",
+    COSTERM: "開課學期",
+    objective: "教學目標",
+    outline: "教材內容",
+    teaching_method: "教學方式",
+    syllabus: "教學進度",
+    evaluation: "評量方式",
+};
