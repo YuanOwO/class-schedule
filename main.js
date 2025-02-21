@@ -172,6 +172,7 @@ const CONFIG = {
 
             content.classList.add("p-2", "flex-grow-1", "border-bottom");
             if (key === "code") content.appendChild(document.createElement("code")).innerText = cls[key];
+            else if (key === "time" || key === "classroom") content.innerText = cls[key].join(", ");
             else content.innerText = cls[key];
         }
     };
