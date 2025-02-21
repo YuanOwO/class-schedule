@@ -164,13 +164,13 @@ const CONFIG = {
                 title = col.appendChild(document.createElement("div")),
                 content = col.appendChild(document.createElement("div"));
 
-            col.classList.add("col-12", "d-flex", "border-bottom");
+            col.classList.add("col-12", "d-flex");
             if (info_fileds.includes(key)) col.classList.add("col-md-6");
 
-            title.classList.add("p-2", "flex-shrink-0", "fw-bold");
+            title.classList.add("p-2", "flex-shrink-0", "border-bottom", "fw-bold");
             title.innerText = MODAL_TITLE[key];
 
-            content.classList.add("p-2", "flex-grow-1");
+            content.classList.add("p-2", "flex-grow-1", "border-bottom");
             if (key === "code") content.appendChild(document.createElement("code")).innerText = cls[key];
             else content.innerText = cls[key];
         }
