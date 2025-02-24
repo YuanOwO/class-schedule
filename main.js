@@ -5,8 +5,26 @@ const CONFIG = {
     SCHEDULE_DATA = {},
     get_data = (semester) => {
         function reqListener() {
+            if (this.status !== 200) {
+                console.error("Failed to load", file, "\nStatus Code:", this.status);
+
+                // render(semester);
+
+                const tbody = document.getElementsByTagName("tbody")[0];
+                tbody.innerHTML = "";
+
+                let tr = tbody.appendChild(document.createElement("tr")),
+                    td = tr.appendChild(document.createElement("td"));
+
+                td.colSpan = CONFIG.wds + 1;
+                td.innerText = "Not Found :(";
+                tr.appendChild(td);
+                tbody.appendChild(tr);
+                return;
+            }
+
             SCHEDULE_DATA[semester] = JSON.parse(this.responseText);
-            render();
+            render(semester);
         }
 
         let oReq = new XMLHttpRequest(),
@@ -27,6 +45,8 @@ const CONFIG = {
         // console.log(semester);
         // console.log(classdata);
 
+        CONFIG.wds = 5;
+
         for (const pkno in classdata) {
             if (Object.hasOwnProperty.call(classdata, pkno)) {
                 const cls = classdata[pkno];
@@ -43,10 +63,9 @@ const CONFIG = {
         }
         return schedule;
     },
-    render = () => {
+    render = (semester) => {
         // 初始化
-        const semester = document.getElementById("semester").value,
-            SCHEDULE = generate_schedule(semester),
+        const SCHEDULE = generate_schedule(semester),
             thead = document.getElementsByTagName("thead")[0],
             tbody = document.getElementsByTagName("tbody")[0];
         let tr, th, td, div;
@@ -102,7 +121,7 @@ const CONFIG = {
                     cls = SCHEDULE[t];
                 if (cls === undefined) td.innerText = "";
                 else {
-                    td.onclick = () => show_info(cls.pkno);
+                    td.onclick = () => show_info(semester, cls.pkno);
                     // td.setAttribute("data-bs-toggle", "modal");
                     // td.setAttribute("data-bs-target", "#infoModal");
 
@@ -138,23 +157,12 @@ const CONFIG = {
             Array.from(tips).map((elem) => new bootstrap.Tooltip(elem));
         })();
     },
-    show_info = (code) => {
-        const cls = SCHEDULE_DATA[document.getElementById("semester").value][code],
+    info_fileds = ["code", "name", "department", "lecturer", "grade", "credit", "time", "classroom", "MUST", "COSTERM"],
+    outline_fileds = ["objective", "outline", "teaching_method", "syllabus", "evaluation"],
+    show_info = (semester, code) => {
+        const cls = SCHEDULE_DATA[semester][code],
             modal = new bootstrap.Modal("#infoModal"),
-            container = document.getElementById("modal-container"),
-            info_fileds = [
-                "code",
-                "name",
-                "department",
-                "lecturer",
-                "grade",
-                "credit",
-                "time",
-                "classroom",
-                "MUST",
-                "COSTERM",
-            ],
-            outline_fileds = ["objective", "outline", "teaching_method", "syllabus", "evaluation"];
+            container = document.getElementById("modal-container");
 
         modal.show();
         container.innerHTML = "";
@@ -179,6 +187,13 @@ const CONFIG = {
 
 window.addEventListener("load", () => {
     console.log("Hello!", new Date());
-    render();
-    document.getElementById("semester").addEventListener("change", render);
+
+    const params = new URLSearchParams(location.search);
+
+    let semester = params.has("semester") ? params.get("semester") : document.getElementById("semester").value;
+    render(semester);
+
+    document.getElementById("semester").addEventListener("change", function () {
+        render(this.value);
+    });
 });

@@ -25,13 +25,15 @@
                 </div>
             </div>
 
-            <table class="table table-striped table-hover table-bordered text-center align-middle">
-                <thead></thead>
-                <tbody class="table-group-divider"></tbody>
-                <caption class="text-end">
-                    &copy; 2023 - 2025 YuanOwO.
-                </caption>
-            </table>
+            <div class="table-responsive">
+                <table class="table table-striped table-hover table-bordered text-center align-middle">
+                    <thead></thead>
+                    <tbody class="table-group-divider"></tbody>
+                    <caption class="text-end">
+                        &copy; 2023 - 2025 YuanOwO.
+                    </caption>
+                </table>
+            </div>
         </main>
 
         <!-- Modal -->
@@ -58,6 +60,10 @@
         </div>
 
         <style>
+            .table {
+                min-width: 720px;
+                table-layout: fixed;
+            }
             .modal-body .d-flex div:first-child {
                 width: 5rem;
             }

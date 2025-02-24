@@ -58,6 +58,7 @@ const BUILDINGS = {
     STM: "航管大樓",
     TEC: "延平技術大樓",
     UAH: "空蝕水槽",
+    ONL: "線上課程", // ONLINE
 };
 // 樓館備註
 // 體育場地包括：
