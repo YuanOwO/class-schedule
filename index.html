@@ -19,15 +19,16 @@
         <main class="container-md my-5">
             <div class="row gx-3 justify-content-end align-items-center mb-3">
                 <div class="col-auto">
-                    <label for="semester" class="col-form-label">學期</label>
+                    <label for="semester" class="col-form-label">選擇學期</label>
                 </div>
                 <div class="col-auto">
                     <select id="semester" class="form-select">
+                        <option value="" disabled selected hidden>學期</option>
                         <option value="1121">112-1</option>
                         <option value="1122">112-2</option>
                         <option value="1131">113-1</option>
                         <option value="1132">113-2</option>
-                        <option value="1141" selected>114-1</option>
+                        <option value="1141">114-1</option>
                     </select>
                 </div>
             </div>
@@ -43,7 +44,6 @@
             </div>
         </main>
 
-        <!-- Modal -->
         <div class="modal fade" id="infoModal" tabindex="-1">
             <div class="modal-dialog modal-lg modal-dialog-scrollable">
                 <div class="modal-content">
@@ -66,24 +66,12 @@
             </div>
         </div>
 
-        <style>
-            .table {
-                min-width: 720px;
-                table-layout: fixed;
-            }
-            .modal-body .d-flex div:first-child {
-                width: 5rem;
-            }
-            .modal-body .d-flex:last-child * {
-                border-bottom: none !important;
-            }
-        </style>
-
         <script
             src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO"
             crossorigin="anonymous"
         ></script>
+        <script src="https://cdn.jsdelivr.net/npm/showdown@2.1.0/dist/showdown.min.js"></script>
         <script src="/assets/constants.js"></script>
         <script src="/main.js"></script>
     </body>

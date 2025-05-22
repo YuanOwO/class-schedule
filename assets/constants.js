@@ -1,4 +1,5 @@
 const WEEKDAYS = "一二三四五六日";
+
 const TIME = [
     "第零節\n06:20\n~\n08:10",
     "第一節\n08:20\n~\n09:10",
@@ -16,6 +17,7 @@ const TIME = [
     "第十三節\n20:20\n~\n21:10",
     "第十四節\n21:15\n~\n22:05",
 ];
+
 const BUILDINGS = {
     AAC: "水生動物實驗中心",
     ADM: "行政大樓",
@@ -78,10 +80,10 @@ const MODAL_TITLE = {
     department: "開課系所",
     lecturer: "教師",
     grade: "班級",
+    credit: "學分",
     time: "上課時間",
     classroom: "上課地點",
     MUST: "選課類別",
-    credit: "學分",
     COSTERM: "開課學期",
     objective: "教學目標",
     outline: "教材內容",
@@ -89,3 +91,7 @@ const MODAL_TITLE = {
     syllabus: "教學進度",
     evaluation: "評量方式",
 };
+
+const MODEL_FILEDS = Object.keys(MODAL_TITLE).filter((key) => key !== "pkno" && key !== "type" && key !== "semster");
+
+const OUTLINE_FILEDS = ["objective", "outline", "teaching_method", "syllabus", "evaluation"];
