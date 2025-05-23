@@ -53,11 +53,11 @@
         "MUST": "必修",
         "credit": "0",
         "COSTERM": "單學期",
-        "objective": "潛水（Diving )是藉由潛水三寶，進入神祕的海洋世界，於近海從事潛水活動，包含了運動、休閒、與環保，以運動和保護海洋生態為主要目標。",
-        "outline": "浮潛是一項結合運動與休閒的體育活動，其課程內容是: 1.簡介浮潛的器材與技巧。 2.如何從事環保潛水。 3.如何進階\"水肺潛水\"。 4.潛水生理學簡介。 5.安全潛水的基本守則。 6.水中的手勢信號。 7.體驗潛水(水肺潛水)。",
+        "objective": "潛水（Diving）是藉由潛水三寶，進入神祕的海洋世界，於近海從事潛水活動，包含了運動、休閒、與環保，以運動和保護海洋生態為主要目標。",
+        "outline": "浮潛是一項結合運動與休閒的體育活動，其課程內容是：\n\n1. 簡介浮潛的器材與技巧。\n2. 如何從事環保潛水。\n3. 如何進階 “水肺潛水”。\n4. 潛水生理學簡介。\n5. 安全潛水的基本守則。\n6. 水中的手勢信號。\n7. 體驗潛水 (水肺潛水)。",
         "teaching_method": "無",
-        "syllabus": "一、1.浮潛的器材與技巧 2.學習如何使用呼吸管 二、1.簡介潛水生理學 2.學習如何使用面鏡、 三、1.簡介潛水生理學 2.學習如何使用游泳蹼、 四、1.簡介潛水生理學 2.學習面鏡與呼吸管排水法、 五、1.簡介潛水生理學 2.練習上升下潛、 六、1.簡介水肺潛水(水中的手勢信號) 2.練習上升下潛 七、1.簡介水肺潛水安全守則 2.水肺潛水器材組裝 八、1.簡介水肺潛水 2.操作水肺潛水器材、、 九、1.簡介水肺潛水 2.操作水肺潛水器材 十、1.簡介水肺潛水(共生) 2.練習水肺潛水(共生)、 十一、1.簡介水肺潛水(共生) 2.練習水",
-        "evaluation": "1.面鏡與呼吸管排水法 2.上升下潛 3.操作水肺潛水器材 4.操作水肺潛水(共生) 5.浮潛與水肺潛水學科測驗 術科50%、學科20%、出席30%"
+        "syllabus": "一、1.浮潛的器材與技巧 2.學習如何使用呼吸管\n二、1.簡介潛水生理學 2.學習如何使用面鏡\n三、1.簡介潛水生理學 2.學習如何使用游泳蹼\n四、1.簡介潛水生理學 2.學習面鏡與呼吸管排水法\n五、1.簡介潛水生理學 2.練習上升下潛、\n六、1.簡介水肺潛水 (水中的手勢信號) 2.練習上升下潛\n七、1.簡介水肺潛水安全守則 2.水肺潛水器材組裝\n八、1.簡介水肺潛水 2.操作水肺潛水器材\n九、1.簡介水肺潛水 2.操作水肺潛水器材\n十、1.簡介水肺潛水 (共生) 2.練習水肺潛水 (共生)\n十一、1.簡介水肺潛水 (共生) 2.練習水",
+        "evaluation": "1. 面鏡與呼吸管排水法\n2. 上升下潛\n3. 操作水肺潛水器材\n4. 操作水肺潛水(共生)\n5. 浮潛與水肺潛水學科測驗\n\n術科50%、學科20%、出席30%"
     },
     "135463574": {
         "pkno": "135463574",
@@ -119,26 +119,6 @@
         "syllabus": "1 游泳 1.基本規定 2.個人基本動作練習 2 捷泳入水 1.出發動作講解2.練習與矯正3.捷泳踢水練 習4.救生四式泳姿練習 3 捷泳轉身 1.轉身動作講解2.練習與矯正3.捷泳練習 4.自我訓練目標設定5.踩水練習(立泳) 4 綜合練習 1.捷泳動作練習（含入水與轉身） 5 綜合練習 1.捷泳動作練習（含入水與轉身） 6 預設目標檢測 7 救生四式 1.基本動作講解2.練習 8 救生四式 1.基本動作講解2.練習3.動作矯正 9 救生四式 1.基本動作講解2.練習 10 救生四式 1.基本動作講解2.練習 11 救生四式 1.基本動作講解2.練習 12 自我目標檢測 13 仰泳 1.基本",
         "evaluation": "踩水10分鐘10% 出發10% 200公尺自由式30% 平時出席及活動參與50%"
     },
-    "135463664": {
-        "pkno": "135463664",
-        "type": "1",
-        "semster": "1141",
-        "code": "B92A4G31",
-        "name": "潛水",
-        "department": "體育室",
-        "lecturer": "陳建文",
-        "grade": "1A",
-        "time": ["501", "502"],
-        "classroom": ["SPF006", "SPF006"],
-        "MUST": "必修",
-        "credit": "0",
-        "COSTERM": "單學期",
-        "objective": "潛水（Diving )是藉由潛水三寶，進入神祕的海洋世界，於近海從事潛水活動，包含了運動、休閒、與環保，以運動和保護海洋生態為主要目標。",
-        "outline": "浮潛是一項結合運動與休閒的體育活動，其課程內容是: 1.簡介浮潛的器材與技巧。 2.如何從事環保潛水。 3.如何進階\"水肺潛水\"。 4.潛水生理學簡介。 5.安全潛水的基本守則。 6.水中的手勢信號。 7.體驗潛水(水肺潛水)。",
-        "teaching_method": "無",
-        "syllabus": "一 1.浮潛的器材與技巧 2.學習如何使用呼吸管 二 1.簡介潛水生理學 2.學習如何使用面鏡 三 1.簡介潛水生理學 2.學習如何使用游泳蹼 四 1.簡介潛水生理學 2.學習面鏡與呼吸管排水法 五 1.簡介潛水生理學 2.練習上升下潛 六 1.簡介水肺潛水(水中的手勢信號) 2.練習上升下潛 七 1.簡介水肺潛水安全守則 2.水肺潛水器材組裝 八 1.簡介水肺潛水 2.操作水肺潛水器材 九 1.簡介水肺潛水 2.操作水肺潛水器材 十 1.簡介水肺潛水(共生) 2.練習水肺潛水(共生) 十一 1.簡介水肺潛水(共生) 2.練習水肺潛水(共生) 十二 1.簡介水肺潛水(排除故障)",
-        "evaluation": "1.面鏡與呼吸管排水法 2.上升下潛 3.操作水肺潛水器材 4.操作水肺潛水(共生) 5.浮潛與水肺潛水學科測驗 術科50%、學科20%、出席30%"
-    },
     "135463676": {
         "pkno": "135463676",
         "type": "1",
@@ -158,26 +138,6 @@
         "teaching_method": "一、說明 讓學生知道學習何種技術、教學步驟及教學目標。 二、講解示範 動作技術分析解說與示範，並說明技術整體形式。 三、技術分析 技術細部動作分析與提示，強調動作要點。 四、練習 依練習步驟讓學生能適當且有效果之練習。 五、分組活動 依授課內容需要將學生適度分組，讓學生親身參與，以獲得比賽之實際體驗。 六、結束活動 團體活動。驗收與檢討學生學習之優、缺與困難，提出可能改善方法。",
         "syllabus": "1 游泳 1.基本規定 2.個人基本動作練習 2 捷泳入水 1.出發動作講解2.練習與矯正3.捷泳踢水練 習4.救生四式泳姿練習 3 捷泳轉身 1.轉身動作講解2.練習與矯正3.捷泳練習 4.自我訓練目標設定5.踩水練習(立泳) 4 綜合練習 1.捷泳動作練習（含入水與轉身） 5 綜合練習 1.捷泳動作練習（含入水與轉身） 6 預設目標檢測 7 救生四式 1.基本動作講解2.練習 8 救生四式 1.基本動作講解2.練習3.動作矯正 9 救生四式 1.基本動作講解2.練習 10 救生四式 1.基本動作講解2.練習 11 救生四式 1.基本動作講解2.練習 12 自我目標檢測 13 仰泳 1.基本",
         "evaluation": "踩水10分鐘10% 出發10% 200公尺自由式30% 平時出席及活動參與50%"
-    },
-    "135463682": {
-        "pkno": "135463682",
-        "type": "1",
-        "semster": "1141",
-        "code": "B92B4G31",
-        "name": "潛水",
-        "department": "體育室",
-        "lecturer": "陳建文",
-        "grade": "1B",
-        "time": ["503", "504"],
-        "classroom": ["SPF006", "SPF006"],
-        "MUST": "必修",
-        "credit": "0",
-        "COSTERM": "單學期",
-        "objective": "潛水（Diving )是藉由潛水三寶，進入神祕的海洋世界，於近海從事潛水活動，包含了運動、休閒、與環保，以運動和保護海洋生態為主要目標。",
-        "outline": "浮潛是一項結合運動與休閒的體育活動，其課程內容是: 1.簡介浮潛的器材與技巧。 2.如何從事環保潛水。 3.如何進階\"水肺潛水\"。 4.潛水生理學簡介。 5.安全潛水的基本守則。 6.水中的手勢信號。 7.體驗潛水(水肺潛水)。",
-        "teaching_method": "無",
-        "syllabus": "一 1.浮潛的器材與技巧 2.學習如何使用呼吸管 二 1.簡介潛水生理學 2.學習如何使用面鏡 三 1.簡介潛水生理學 2.學習如何使用游泳蹼 四 1.簡介潛水生理學 2.學習面鏡與呼吸管排水法 五 1.簡介潛水生理學 2.練習上升下潛 六 1.簡介水肺潛水(水中的手勢信號) 2.練習上升下潛 七 1.簡介水肺潛水安全守則 2.水肺潛水器材組裝 八 1.簡介水肺潛水 2.操作水肺潛水器材 九 1.簡介水肺潛水 2.操作水肺潛水器材 十 1.簡介水肺潛水(共生) 2.練習水肺潛水(共生) 十一 1.簡介水肺潛水(共生) 2.練習水肺潛水(共生) 十二 1.簡介水肺潛水(排除故障)",
-        "evaluation": "1.面鏡與呼吸管排水法 2.上升下潛 3.操作水肺潛水器材 4.操作水肺潛水(共生) 5.浮潛與水肺潛水學科測驗 術科50%、學科20%、出席30%"
     },
     "135463759": {
         "pkno": "135463759",
@@ -273,11 +233,11 @@
         "MUST": "必修",
         "credit": "0",
         "COSTERM": "單學期",
-        "objective": "潛水（Diving )是藉由潛水三寶，進入神祕的海洋世界，於近海從事潛水活動，包含了運動、休閒、與環保，以運動和保護海洋生態為主要目標。",
-        "outline": "浮潛是一項結合運動與休閒的體育活動，其課程內容是: 1.簡介浮潛的器材與技巧。 2.如何從事環保潛水。 3.如何進階\"水肺潛水\"。 4.潛水生理學簡介。 5.安全潛水的基本守則。 6.水中的手勢信號。 7.體驗潛水(水肺潛水)。",
+        "objective": "潛水（Diving）是藉由潛水三寶，進入神祕的海洋世界，於近海從事潛水活動，包含了運動、休閒、與環保，以運動和保護海洋生態為主要目標。",
+        "outline": "浮潛是一項結合運動與休閒的體育活動，其課程內容是：\n\n1. 簡介浮潛的器材與技巧。\n2. 如何從事環保潛水。\n3. 如何進階 “水肺潛水”。\n4. 潛水生理學簡介。\n5. 安全潛水的基本守則。\n6. 水中的手勢信號。\n7. 體驗潛水 (水肺潛水)。",
         "teaching_method": "無",
-        "syllabus": "一、1.浮潛的器材與技巧 2.學習如何使用呼吸管 二、1.簡介潛水生理學 2.學習如何使用面鏡、 三、1.簡介潛水生理學 2.學習如何使用游泳蹼、 四、1.簡介潛水生理學 2.學習面鏡與呼吸管排水法、 五、1.簡介潛水生理學 2.練習上升下潛、 六、1.簡介水肺潛水(水中的手勢信號) 2.練習上升下潛 七、1.簡介水肺潛水安全守則 2.水肺潛水器材組裝 八、1.簡介水肺潛水 2.操作水肺潛水器材、、 九、1.簡介水肺潛水 2.操作水肺潛水器材 十、1.簡介水肺潛水(共生) 2.練習水肺潛水(共生)、 十一、1.簡介水肺潛水(共生) 2.練習水",
-        "evaluation": "1.面鏡與呼吸管排水法 2.上升下潛 3.操作水肺潛水器材 4.操作水肺潛水(共生) 5.浮潛與水肺潛水學科測驗 術科50%、學科20%、出席30%"
+        "syllabus": "一、1.浮潛的器材與技巧 2.學習如何使用呼吸管\n二、1.簡介潛水生理學 2.學習如何使用面鏡\n三、1.簡介潛水生理學 2.學習如何使用游泳蹼\n四、1.簡介潛水生理學 2.學習面鏡與呼吸管排水法\n五、1.簡介潛水生理學 2.練習上升下潛、\n六、1.簡介水肺潛水 (水中的手勢信號) 2.練習上升下潛\n七、1.簡介水肺潛水安全守則 2.水肺潛水器材組裝\n八、1.簡介水肺潛水 2.操作水肺潛水器材\n九、1.簡介水肺潛水 2.操作水肺潛水器材\n十、1.簡介水肺潛水 (共生) 2.練習水肺潛水 (共生)\n十一、1.簡介水肺潛水 (共生) 2.練習水",
+        "evaluation": "1. 面鏡與呼吸管排水法\n2. 上升下潛\n3. 操作水肺潛水器材\n4. 操作水肺潛水(共生)\n5. 浮潛與水肺潛水學科測驗\n\n術科50%、學科20%、出席30%"
     },
     "135463931": {
         "pkno": "135463931",
@@ -314,9 +274,9 @@
         "credit": "3",
         "COSTERM": "單學期",
         "objective": "教導學生圖論演算法的設計與分析方法",
-        "outline": "1. Advanced Data Structures a. B-Tree b. Binomial Heaps c. Fibonacci Heaps 2. Graph Algorithms a. Elementary Graph Algorithms b. Minimum Spanning Trees c. Single-Source Shortest Paths d. All-Pairs shortest Paths 3. Selected Topics a. String Matching b. Computational Geometry c. NP-completeness",
-        "teaching_method": "使用投影片講授及課堂討論 Oral presentation with slides and class discussion",
-        "syllabus": "1. Advanced Data Structures (4 weeks) a. B-Tree b. Binomial Heaps c. Fibonacci Heaps 2. Graph Algorithms (6 weeks) a. Elementary Graph Algorithms b. Minimum Spanning Trees c. Single-Source Shortest Paths d. All-Pairs shortest Paths 3. Selected Topics (6 weeks) a. Polynomials and the FFT b. String Matching c. Computational Geometry d. NP-completeness",
+        "outline": "1. Advanced Data Structures\na. B-Tree\nb. Binomial Heaps\nc. Fibonacci Heaps\n2. Graph Algorithms\na. Elementary Graph Algorithms\nb. Minimum Spanning Trees\nc. Single-Source Shortest Paths\nd. All-Pairs shortest Paths\n3. Selected Topics\na. String Matching\nb. Computational Geometry\nc. NP-completeness",
+        "teaching_method": "使用投影片講授及課堂討論",
+        "syllabus": "1. Advanced Data Structures (4 weeks)\na. B-Tree\nb. Binomial Heaps\nc. Fibonacci Heaps\n2. Graph Algorithms (6 weeks)\na. Elementary Graph Algorithms\nb. Minimum Spanning Trees\nc. Single-Source Shortest Paths\nd. All-Pairs shortest Paths\n3. Selected Topics (6 weeks)\na. Polynomials and the FFT\nb. String Matching\nc. Computational Geometry\nd. NP-completeness",
         "evaluation": "期中考: 25% 期末考試: 25% 隨堂測驗: 20% 作業及課堂參與: 30%"
     },
     "135466464": {
@@ -334,9 +294,9 @@
         "credit": "3",
         "COSTERM": "單學期",
         "objective": "本課程介紹資訊安全實務與管理基礎，並教導學生識別、評估、管理安全風險，進而建立資訊安全策略。藉由課本上的各種基礎介紹，學生可以獲得更多的資訊安全管理知識，同時將所學知識應用於實務之中。",
-        "outline": "本課程內容主要包括： -瞭解資訊安全管理 -瞭解資訊安全策略 -瞭解安全管理模型 -瞭解安全管理實務 -瞭解保護機制",
+        "outline": "本課程內容主要包括：\n- 瞭解資訊安全管理\n- 瞭解資訊安全策略\n- 瞭解安全管理模型\n- 瞭解安全管理實務\n- 瞭解保護機制",
         "teaching_method": "課堂講授、習題演練",
-        "syllabus": "1. 課程大綱及概論 2. 資訊安全管理簡介 3. 安全規劃 4. 意外事故規劃 5. 資訊安全策略 6. 發展安全程序 7. 安全管理模型 8. 期中考 9. 安全架構模型 10. 存取控制模型 11. 安全管理實務 12. 風險管理：識別及評估風險 13. 保護機制 14. 密碼學 15. 人員及安全 16. 期末考",
+        "syllabus": "1. 課程大綱及概論\n2. 資訊安全管理簡介\n3. 安全規劃\n4. 意外事故規劃\n5. 資訊安全策略\n6. 發展安全程序\n7. 安全管理模型\n8. 期中考\n9. 安全架構模型\n10. 存取控制模型\n11. 安全管理實務\n12. 風險管理：識別及評估風險\n13. 保護機制\n14. 密碼學\n15. 人員及安全\n16. 期末考",
         "evaluation": "小考：20%，報告：20%，期中考：30%，期末考：30%"
     },
     "135466544": {
@@ -353,10 +313,10 @@
         "MUST": "必修",
         "credit": "3",
         "COSTERM": "單學期",
-        "objective": "本課程探討現代作業系統的基本概念、設計原則和實作。學生將學習作業系統的核心元件，包括行程管理、處理器排程、同步運算、死結避免、記憶體管理、檔案系統和I/O 系統。課程將理論課程與作業實作結合，幫助學生打下堅實的作業系統知識基礎。",
+        "objective": "本課程探討現代作業系統的基本概念、設計原則和實作。學生將學習作業系統的核心元件，包括行程管理、處理器排程、同步運算、死結避免、記憶體管理、檔案系統和 I/O 系統。課程將理論課程與作業實作結合，幫助學生打下堅實的作業系統知識基礎。",
         "outline": "行程管理、處理器排程、同步運算、死結避免、記憶體管理、輸入/輸出系統",
         "teaching_method": "上課講義講授、作業實作",
-        "syllabus": "1. 作業系統介紹 2. 作業系統結構 3. 系統行程概念 4. 執行緒與並行性 5. 處理器排程 6. 同步運算概念與範例 7. 死結定義 8. 死結避免與排除 9. 主記憶體運作 10. 虛擬記憶體運作 11. 快取記憶體運作 12. 大量儲存結構檔案系統 13. 輸入/輸出系統 14. 檔案系統介面與內部架構",
+        "syllabus": "1. 作業系統介紹\n2. 作業系統結構\n3. 系統行程概念\n4. 執行緒與並行性\n5. 處理器排程\n6. 同步運算概念與範例\n7. 死結定義\n8. 死結避免與排除\n9. 主記憶體運作\n10. 虛擬記憶體運作\n11. 快取記憶體運作\n12. 大量儲存結構檔案系統\n13. 輸入/輸出系統\n14. 檔案系統介面與內部架構",
         "evaluation": "作業與小考：40% 期中考：30% 期末考：30%"
     },
     "135466717": {
@@ -374,10 +334,10 @@
         "credit": "3",
         "COSTERM": "單學期",
         "objective": "讓學生從中瞭解軟體工程之基礎觀念知識，並以實務性之方法說明如何進行軟體系統之需求分析、系統設計、實作、測試與版本控管。課程分為講授與實習兩部分，除了軟體工程觀念之建立外，並將透過實際操作之說明，讓學生熟悉各種軟體工程方法實際之作法與帶來之效益。",
-        "outline": "1. 軟體開發流程 2. 基礎需求工程 3. 基礎專案管理 4. UML分析與設計 5. 基礎軟體設計 6. 版本控管 7. 基礎軟體測試 8. 持續整合與部署 9. 敏捷開發方法 10. 進階需求工程與軟體設計 11. 進階軟體測試",
-        "teaching_method": "1. 概念與實例講解 2. 上機實作 3. 團隊專題開發",
-        "syllabus": "1. 軟體開發流程 2. 基礎需求工程 3. 基礎專案管理 4. UML分析與設計 5. 基礎軟體設計 6. 版本控管 7. 基礎軟體測試 8. 持續整合與部署 9. 敏捷開發方法 10. 進階需求工程與軟體設計 11. 進階軟體測試 自主學習課程(兩週)： 進階DevOps工具 進階測試工具",
-        "evaluation": "- 期末考 - 課堂練習 - 團隊專案"
+        "outline": "1. 軟體開發流程\n2. 基礎需求工程\n3. 基礎專案管理\n4. UML 分析與設計\n5. 基礎軟體設計\n6. 版本控管\n7. 基礎軟體測試\n8. 持續整合與部署\n9. 敏捷開發方法\n10. 進階需求工程與軟體設計\n11. 進階軟體測試",
+        "teaching_method": "1. 概念與實例講解\n2. 上機實作\n3. 團隊專題開發",
+        "syllabus": "1. 軟體開發流程\n2. 基礎需求工程\n3. 基礎專案管理\n4. UML 分析與設計\n5. 基礎軟體設計\n6. 版本控管\n7. 基礎軟體測試\n8. 持續整合與部署\n9. 敏捷開發方法\n10. 進階需求工程與軟體設計\n11. 進階軟體測試\n\n自主學習課程 (兩週)： 進階 DevOps 工具 進階測試工具",
+        "evaluation": "- 期末考\n- 課堂練習\n- 團隊專案"
     },
     "135466891": {
         "pkno": "135466891",
@@ -393,11 +353,11 @@
         "MUST": "選修",
         "credit": "3",
         "COSTERM": "單學期",
-        "objective": "本課程針對資料庫作介紹，其課程內容包含：資料庫基本概念、實體關係模式、關聯模式、關聯模式的運算、SQL查詢語法及資料正規化。",
-        "outline": "資料庫基本概念、實體關係模式、關聯模式、SQL查詢語法、資料正規化",
+        "objective": "本課程針對資料庫作介紹，其課程內容包含：資料庫基本概念、實體關係模式、關聯模式、關聯模式的運算、SQL 查詢語法及資料正規化。",
+        "outline": "資料庫基本概念、實體關係模式、關聯模式、SQL 查詢語法、資料正規化",
         "teaching_method": "課堂講授",
-        "syllabus": "1 CH01: Databases and Database Users 2 CH02: Database System Concepts and Architecture 3 CH03: Data Modeling Using the Entity-Relationship (ER) Model (非同步) 4 CH03: Data Modeling Using the Entity-Relationship (ER) Model (Cont’d.) 5 國慶日放假 6 CH04: The Enhanced Entity-Relationship (EER) Model (非同步) 7 CH05: The Relational Data Model and Relational Database Constraints 8 期中考 9 CH08: The Relational Algebra and Relational Calculus 10 CH08: The Relational Algebra and Relational Calculus (Cont’d.) (非同步) 11 CH09: Relational Database Design by ER- and EER-to-Relational Mapping 12 CH06: Basic SQL 13 CH07: More SQL: Complex Queries, Triggers, Views, and Schema Modification (非同步) 14 CH14: Basics of Functional Dependencies and Normalization for Relational Database 15 Project Demo 16 期末考 17 彈性補充教學 18 彈性補充教學",
-        "evaluation": "1.作業、小考、出席：20% 2.期中考：30% 3.期末考：30% 4.期末專題: 20%"
+        "syllabus": "1. CH01: Databases and Database User\n2. CH02: Database System Concepts and Architecture\n3. CH03: Data Modeling Using the Entity-Relationship (ER) Model (非同步)\n4. CH03: Data Modeling Using the Entity-Relationship (ER) Model (Cont’d.)\n5. 國慶日放假\n6. CH04: The Enhanced Entity-Relationship (EER) Model (非同步)\n7. CH05: The Relational Data Model and Relational Database Constraints\n8. 期中考\n9. CH08: The Relational Algebra and Relational Calculus\n10. CH08: The Relational Algebra and Relational Calculus (Cont’d.) (非同步)\n11. CH09: Relational Database Design by ER- and EER-to-Relational Mapping\n12. CH06: Basic SQL\n13. CH07: More SQL: Complex Queries, Triggers, Views, and Schema Modification (非同步)\n14. CH14: Basics of Functional Dependencies and Normalization for Relational Database\n15. Project Demo\n16. 期末考\n17. 彈性補充教學\n18. 彈性補充教學",
+        "evaluation": "1. 作業、小考、出席：20%\n2. 期中考：30%\n3. 期末考：30%\n4. 期末專題：20%"
     },
     "135466942": {
         "pkno": "135466942",
@@ -416,8 +376,8 @@
         "objective": "學習誤差分析與各種數值計算演算法 學習科學計算的應用",
         "outline": "誤差分析、求根、內插與外插、積分與微分、線性系統、特徵系統",
         "teaching_method": "講演、範例、自我練習、電腦程式專題",
-        "syllabus": "1. Introduction (1 week) 2. Error analysis (1.5 weeks) (a) floating number representation, (b) absolute error and relative error, (c) error propagation in computation, (d) condition number and vector and matrix norms. 3. Root finding (2 weeks) (a) Bisection method, (b) Newton’s method, (c) Multi-dimensional root finding. 4. Interpolation (2 weeks) (a) Lagrange polynomial, Newton’s polynomial (b) Cubic splines. (optional) (Quiz 1) 5. Differentiation (1.5 weeks) (a) Central, backward, and forward difference methods (b) Differential equations and Finite difference method. 6. Midterm exam (1 week) 7. Integration (2 weeks) (a) Trapezoidal rule, (b) Simpson`s rule and Newton`s method, (c) Gaussian quadrature method. 8. Linear system solvers (4 weeks) (a) Direct methods: Gaussian elimination, LU decomposition, QR decomposition. (b) Iterative methods: Gauss-Seidel method, SOR method. (c) Conjugate gradient method. (Quiz 2) 9. Eigenvalues and eigenvectors (2 weeks",
-        "evaluation": "程式作業 (a) 2D root-finding, (b) Piecewise interpolation, (c) Gauss Quadrature Integration, (d) Conjugate gradient method, (e) Eigenvalues and eigenvectors. 評分: computer projects (40%) + 2 quiz (20%) + midterm & final (40%)."
+        "syllabus": "1. Introduction (1 week)\n2. Error analysis (1.5 weeks)\n(a) floating number representation, (b) absolute error and relative error, (c) error propagation in computation, (d) condition number and vector and matrix norms.\n3. Root finding (2 weeks)\n(a) Bisection method, (b) Newton’s method, (c) Multi-dimensional root finding.\n4. Interpolation (2 weeks)\n(a) Lagrange polynomial, Newton’s polynomial (b) Cubic splines. (optional) (Quiz 1)\n5. Differentiation (1.5 weeks)\n(a) Central, backward, and forward difference methods (b) Differential equations and Finite difference method.\n6. Midterm exam (1 week)\n7. Integration (2 weeks)\n(a) Trapezoidal rule, (b) Simpson’s rule and Newton’s method, (c) Gaussian quadrature method.\n8. Linear system solvers (4 weeks)\n(a) Direct methods: Gaussian elimination, LU decomposition, QR decomposition. (b) Iterative methods: Gauss-Seidel method, SOR method. (c) Conjugate gradient method. (Quiz 2)\n9. Eigenvalues and eigenvectors (2 weeks)",
+        "evaluation": "程式作業 (a) 2D root-finding, (b) Piecewise interpolation, (c) Gauss Quadrature Integration, (d) Conjugate gradient method, (e) Eigenvalues and eigenvectors.\n\n評分: computer projects (40%) + 2 quiz (20%) + midterm & final (40%)."
     },
     "135478770": {
         "pkno": "135478770",
@@ -613,10 +573,10 @@
         "MUST": "選修",
         "credit": "2",
         "COSTERM": "單學期",
-        "objective": "1. 增加詞彙量。 2.熟悉名詞句、形容詞句、動詞句基本活用。 3.習得動詞的活用變化及其句型應用。 4.日文聽力、口說、閱讀及寫作訓練。 5.培養學習日語的技能、並擴展專業日語的能力。",
-        "outline": "1. 單字練習單。 2.名詞句、形容詞句、動詞句基本活用複習單。 3.動詞句型文法練習單。 4.專業文章朗讀練習單。 5.專業文章解析練習單。",
+        "objective": "1. 增加詞彙量。\n2. 熟悉名詞句、形容詞句、動詞句基本活用。\n3. 習得動詞的活用變化及其句型應用。\n4. 日文聽力、口說、閱讀及寫作訓練。\n5. 培養學習日語的技能、並擴展專業日語的能力。",
+        "outline": "1. 單字練習單。\n2. 名詞句、形容詞句、動詞句基本活用複習單。\n3. 動詞句型文法練習單。\n4. 專業文章朗讀練習單。\n5. 專業文章解析練習單。",
         "teaching_method": "討論、講述說明、課堂活動及練習、作業報告、電子設備輔助教學。",
-        "syllabus": "期中考前完成專業文章單字的教學。期中考後進入動詞句型應用及教學，並完成專業文章解析及導讀。 第1週9/11：課程說明。單字作業分配。複習（名詞句及其助詞）。 第2週9/18：複習（形容詞句及其助詞）。 第3週9/25：複習（動詞句及其助詞）。 第4週10/2：複習（動詞句及其助詞）。 第5週10/9：單字報告作業。 第6週10/16：單字朗讀作業。 第7週10/23：單字朗讀作業。 第8週10/30：期中考。 第9週11/6：動詞「未然形」及其句型。 第10週11/13：動詞「連用形」及其句型。 第11週11/20：動詞「終止形/連体形」及其句型。 第12週11/27：專業文章解析及導讀①。 第13週12/4：專業文章解析及導讀②。 第14週12/11：專業文章解析及導讀③。 第15週12/18：專業文章解析及導讀④。 第16週12/25：期末考。 第17週1/1國定假日：專業文章朗讀。 第18週1/8：文章解析作業。 課程計畫及教學進度會依教學情況調整。",
-        "evaluation": "＊第一週即照課程進度上課，並且分配作業。考慮加退選的同學須留意出缺席可能會影響自身學習進度。 期中考 30%。 期末考 30%。 課堂表現、作業、平時測驗 40%。（逾時不接受補小考及補交作業） 出席規定：任何請假皆為缺席，缺席五次以上者予以扣考期末考。"
+        "syllabus": "期中考前完成專業文章單字的教學。期中考後進入動詞句型應用及教學，並完成專業文章解析及導讀。\n\n第 1 週 9/11：課程說明。單字作業分配。複習（名詞句及其助詞）。\n第 2 週 9/18：複習（形容詞句及其助詞）。\n第 3 週 9/25：複習（動詞句及其助詞）。\n第 4 週 10/2：複習（動詞句及其助詞）。\n第 5 週 10/9：單字報告作業。\n第 6 週 10/16：單字朗讀作業。\n第 7 週 10/23：單字朗讀作業。\n第 8 週 10/30：期中考。\n第 9 週 11/6：動詞「未然形」及其句型。\n第 10 週 11/13：動詞「連用形」及其句型。\n第 11 週 11/20：動詞「終止形/連体形」及其句型。\n第 12 週 11/27：專業文章解析及導讀①。\n第 13 週 12/4：專業文章解析及導讀②。\n第 14 週 12/11：專業文章解析及導讀③。\n第 15 週 12/18：專業文章解析及導讀④。\n第 16 週 12/25：期末考。\n第 17 週 1/1 國定假日：專業文章朗讀。\n第 18 週 1/8：文章解析作業。\n\n課程計畫及教學進度會依教學情況調整。",
+        "evaluation": "＊第一週即照課程進度上課，並且分配作業。考慮加退選的同學須留意出缺席可能會影響自身學習進度。\n\n- 期中考 30%。\n- 期末考 30%。\n- 課堂表現、作業、平時測驗 40%。（逾時不接受補小考及補交作業）\n\n出席規定：任何請假皆為缺席，缺席五次以上者予以扣考期末考。"
     }
 }

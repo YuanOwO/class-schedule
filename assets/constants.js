@@ -21,6 +21,9 @@ const TIME = [
 const BUILDINGS = {
     AAC: "水生動物實驗中心",
     ADM: "行政大樓",
+    ADM001: "海洋廳",
+    ADM002: "第一演講廳",
+    ADM003: "第二演講廳",
     BOH: "人文大樓",
     CC3: "電算中心三樓",
     CC4: "電算中心四樓",
@@ -86,7 +89,7 @@ const MODAL_TITLE = {
     MUST: "選課類別",
     COSTERM: "開課學期",
     objective: "教學目標",
-    outline: "教材內容",
+    outline: "課程大綱",
     teaching_method: "教學方式",
     syllabus: "教學進度",
     evaluation: "評量方式",

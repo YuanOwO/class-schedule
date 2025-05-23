@@ -13,11 +13,11 @@
         "MUST": "必修",
         "credit": "0",
         "COSTERM": "單學期",
-        "objective": "一、認知 (一)瞭解羽毛運動與生活體適能有關之基礎觀念與意義。 (二)瞭解運動與健康人生的關係，並能培養自我運動興趣，進而養成規律運動習慣。 (三)瞭解各項運動規則與常識。二、技能 (一)建立羽球基本常識",
-        "outline": "一、羽球運動相關之基本觀念與原則。二、羽球運動與體適能之關係。三、羽球運動與健康人生之關係。四、教學項目 (一)羽球",
-        "teaching_method": "一、說明讓學生知道學習何種技術、教學步驟及教學目標。二、講解示範動作技術分析解說與示範，並說明技術整體形式。三、技術分析技術細部動作分析與提示，強調動作要點。四、練習依練習步驟讓學生能適當且有效果之練習。五、分組活動依授課內容需要將學生適度分組，讓學生親身參與，以獲得比賽之實際體驗。六、結束活動團體活動。驗收與檢討學生學習之優、缺與困難，提出可能改善方法。",
-        "syllabus": "週次 預定進度一、課程教介紹羽球常識 二、握拍法、徒手基本步法、控球練習三、揮拍、長球、基本步法四、揮拍、長球、基本步法五、規則、左右側移步法六、擊高遠球、左右側移步法七、擊高遠球、左右前斜側移步法八、發球、網前撲球步法九、切球和挑球組合練習、斜後右側移步法十、切球和挑球組合練習、斜後右側移步法十一、遶頭後擊高遠球、斜後左側移步法十二、遶頭後擊高遠球殺球、斜後左右側移步法十三、殺球、米字步法十四、規則講解、裁判實習、米字步法十五、單打比賽十六、單打比賽十七、期末測驗",
-        "evaluation": "擊高遠球30﹪,擊短球15% ,發球15% 學習態度與專業認知40%"
+        "objective": "一、認知\n(一) 瞭解羽毛運動與生活體適能有關之基礎觀念與意義。\n(二) 瞭解運動與健康人生的關係，並能培養自我運動興趣，進而養成規律運動習慣。\n(三) 瞭解各項運動規則與常識。\n\n二、技能\n(一) 建立羽球基本常識\n",
+        "outline": "一、羽球運動相關之基本觀念與原則。\n二、羽球運動與體適能之關係。\n三、羽球運動與健康人生之關係。\n四、教學項目 (一) 羽球\n",
+        "teaching_method": "一、說明讓學生知道學習何種技術、教學步驟及教學目標。\n二、講解示範動作技術分析解說與示範，並說明技術整體形式。\n三、技術分析技術細部動作分析與提示，強調動作要點。\n四、練習依練習步驟讓學生能適當且有效果之練習。\n五、分組活動依授課內容需要將學生適度分組，讓學生親身參與，以獲得比賽之實際體驗。\n六、結束活動團體活動。驗收與檢討學生學習之優、缺與困難，提出可能改善方法。\n",
+        "syllabus": "週次 預定進度\n一、課程教介紹羽球常識\n二、握拍法、徒手基本步法、控球練習\n三、揮拍、長球、基本步法\n四、揮拍、長球、基本步法\n五、規則、左右側移步法\n六、擊高遠球、左右側移步法\n七、擊高遠球、左右前斜側移步法\n八、發球、網前撲球步法\n九、切球和挑球組合練習、斜後右側移步法\n十、切球和挑球組合練習、斜後右側移步法\n十一、遶頭後擊高遠球、斜後左側移步法\n十二、遶頭後擊高遠球殺球、斜後左右側移步法\n十三、殺球、米字步法\n十四、規則講解、裁判實習、米字步法\n十五、單打比賽\n十六、單打比賽\n十七、期末測驗\n",
+        "evaluation": "- 擊高遠球 30%\n- 擊短球 15%\n- 發球15%\n- 學習態度與專業認知 40%\n"
     },
     "133403133": {
         "pkno": "133403133",
@@ -33,11 +33,11 @@
         "MUST": "選修",
         "credit": "1",
         "COSTERM": "單學期",
-        "objective": "了解從C到C++，C++ 對物件導向程式設計的支援，引導學生學習基本的物件導向程式。",
-        "outline": "詳見教學進度",
-        "teaching_method": "1. 課堂授課 2. 上機操作示範 3. 實習題練習",
-        "syllabus": "1. C/C++的基本結構 2. 資料型態與運算式 3. 基本的輸出與輸入 4. 流程控制 5. 檔案處理 6. 陣列與字串 7. 函式與巨集 8. 指標與動態記憶體 9. 結晶體、鏈結串列、堆疊與佇列 10. 遞迴與動態規劃 11. 從C到C++ 12. C++類別、物件及覆載 (期中考前) 13. 標準樣板函式庫(STL)、迭代器、泛型演算函式 14. 類別繼承 15. 虛擬函式 16. 運算子覆載 17. C++進階字串 18. 異常處理",
-        "evaluation": "實習題目(40%) 期中上機考試 (25%) 期末上機考試 (25%) 課程參與 (10%)"
+        "objective": "了解從 C 到 C++，C++ 對物件導向程式設計的支援，引導學生學習基本的物件導向程式。\n",
+        "outline": "詳見教學進度\n",
+        "teaching_method": "1. 課堂授課\n2. 上機操作示範\n3. 實習題練習\n",
+        "syllabus": "1. C/C++ 的基本結構\n2. 資料型態與運算式\n3. 基本的輸出與輸入\n4. 流程控制\n5. 檔案處理\n6. 陣列與字串\n7. 函式與巨集\n8. 指標與動態記憶體\n9. 結晶體、鏈結串列、堆疊與佇列\n10. 遞迴與動態規劃\n11. 從 C 到 C++\n12. C++ 類別、物件及覆載 (期中考前)\n13. 標準樣板函式庫 (STL)、迭代器、泛型演算函式\n14. 類別繼承\n15. 虛擬函式\n16. 運算子覆載\n17. C++ 進階字串\n18. 異常處理\n",
+        "evaluation": "- 實習題目 (40%)\n- 期中上機考試 (25%)\n- 期末上機考試 (25%)\n- 課程參與 (10%)\n"
     },
     "133403141": {
         "pkno": "133403141",
@@ -53,11 +53,11 @@
         "MUST": "必修",
         "credit": "3",
         "COSTERM": "單學期",
-        "objective": "了解從C到C++，C++ 對物件導向程式設計的支援，引導學生學習基本的物件導向程式。",
+        "objective": "了解從 C 到 C++，C++ 對物件導向程式設計的支援，引導學生學習基本的物件導向程式。\n",
         "outline": "詳見教學進度",
-        "teaching_method": "1. 課堂授課 2. 上機操作示範",
-        "syllabus": "1. C/C++的基本結構 2. 資料型態與運算式 3. 基本的輸出與輸入 4. 流程控制 5. 檔案處理 6. 陣列與字串 7. 函式與巨集 8. 指標與動態記憶體 9. 結晶體、鏈結串列、堆疊與佇列 10. 遞迴與動態規劃 11. 從C到C++ 12. C++類別、物件及覆載 (期中考前) 13. 標準樣板函式庫(STL)、迭代器、泛型演算函式 14. 類別繼承 15. 虛擬函式 16. 運算子覆載 17. C++進階字串 18. 異常處理",
-        "evaluation": "1. 隨堂測驗 (30%) 2. 期中筆試 (30%) 3. 期末筆試 (30%) 4. 課程參與 (10%)"
+        "teaching_method": "1. 課堂授課\n2. 上機操作示範\n",
+        "syllabus": "1. C/C++的基本結構\n2. 資料型態與運算式\n3. 基本的輸出與輸入\n4. 流程控制\n5. 檔案處理\n6. 陣列與字串\n7. 函式與巨集\n8. 指標與動態記憶體\n9. 結晶體、鏈結串列、堆疊與佇列\n10. 遞迴與動態規劃\n11. 從 C 到 C++\n12. C++類別、物件及覆載 (期中考前)\n13. 標準樣板函式庫 (STL)、迭代器、泛型演算函式\n14. 類別繼承\n15. 虛擬函式\n16. 運算子覆載\n17. C++ 進階字串\n18. 異常處理\n",
+        "evaluation": "1. 隨堂測驗 (30%)\n2. 期中筆試 (30%)\n3. 期末筆試 (30%)\n4. 課程參與 (10%)\n"
     },
     "133403180": {
         "pkno": "133403180",
@@ -73,11 +73,11 @@
         "MUST": "選修",
         "credit": "3",
         "COSTERM": "單學期",
-        "objective": "The International Collegiate Programming Contest (ICPC) is a yearly computer programming competition for undergraduates and first-year graduate students from all over the world. It is organized by the ICPC committee and consists of two tiers: a regional contest and the world finals. This course will help students to be more competitive in the CPE, NCPC, and ACM ICPC programming contest by exploring numerous problem solving techniques and algorithms not covered in the traditional curriculum. As an introductory course, we will begin from elementary topics.",
-        "outline": "Introduction Discrete structure Mathematics Divide and Conquer Data Structures & Sorting Dynamic Programming (DP) Combinatorial Games Greedy Algorithms Binary Trees Basic Graph Algorithms Spanning Trees & Shortest Paths Network Flow Problems Computational Geometry String Algorithms (Additional material: Suffix Arrays - A Programming Contest Approach) Backtracking, Branch & Bound",
-        "teaching_method": "1. Lectures and explanations. 2. Online judge evaluation. The evaluation will be either on a 1/0 DomJudge system (ACM rules) or a graceful CMS system (IOI rules). 3. Contest simulations.",
-        "syllabus": "For this semester, 1/3 of the topics will be selected (approx. 8~10 topics). 1. arrays and iteration problems 2. programming style / understanding specifications 3. data structure problems 4. elementary data structures 5. string problems 6. strings and library functions 7. sorting problems 8. sorting and library functions 9. arithmetic problems 10. arithmetic and algebra 11. combinatorics problems 12. recurrence relations and counting 13. number theory problems 14. divisiblity and modular arithmetic 15. backtracking problems 16. constructing subsets and permutations 17. graph traversal problems 18. DFS/BFS 19. graph algorithms problems 20. shortest paths and MST 21. dynamic programming problems 22. edit distance and applications 23. grid problems 24. rectangular and hexagonal grids 25. geometry problems 26. geometric primitives and trigonometry 27. computational geometry 28 .convex hulls and triangulation",
-        "evaluation": "40% In-course online evaluations. 60% Midterm and final examinations. (Online Judge evaluations, simulated contest environment)"
+        "objective": "The International Collegiate Programming Contest (ICPC) is a yearly computer programming competition for undergraduates and first-year graduate students from all over the world. It is organized by the ICPC committee and consists of two tiers: a regional contest and the world finals. This course will help students to be more competitive in the CPE, NCPC, and ACM ICPC programming contest by exploring numerous problem solving techniques and algorithms not covered in the traditional curriculum. As an introductory course, we will begin from elementary topics.\n",
+        "outline": "Introduction Discrete structure Mathematics Divide and Conquer Data Structures & Sorting Dynamic Programming (DP) Combinatorial Games Greedy Algorithms Binary Trees Basic Graph Algorithms Spanning Trees & Shortest Paths Network Flow Problems Computational Geometry String Algorithms (Additional material: Suffix Arrays - A Programming Contest Approach) Backtracking, Branch & Bound\n",
+        "teaching_method": "1. Lectures and explanations.\n2. Online judge evaluation. The evaluation will be either on a 1/0 DomJudge system (ACM rules) or a graceful CMS system (IOI rules).\n3. Contest simulations.\n",
+        "syllabus": "For this semester, 1/3 of the topics will be selected (approx. 8~10 topics).\n1. arrays and iteration problems\n2. programming style / understanding specifications\n3. data structure problems\n4. elementary data structures\n5. string problems\n6. strings and library functions\n7. sorting problems\n8. sorting and library functions\n9. arithmetic problems\n10. arithmetic and algebra\n11. combinatorics problems\n12. recurrence relations and counting\n13. number theory problems\n14. divisiblity and modular arithmetic\n15. backtracking problems\n16. constructing subsets and permutations\n17. graph traversal problems\n18. DFS/BFS\n19. graph algorithms problems\n20. shortest paths and MST\n21. dynamic programming problems\n22. edit distance and applications\n23. grid problems\n24. rectangular and hexagonal grids\n25. geometry problems\n26. geometric primitives and trigonometry\n27. computational geometry\n28. convex hulls and triangulation\n",
+        "evaluation": "- 40% In-course online evaluations.\n- 60% Midterm and final examinations. (Online Judge evaluations, simulated contest environment)\n"
     },
     "133403194": {
         "pkno": "133403194",
@@ -93,11 +93,11 @@
         "MUST": "必修",
         "credit": "1",
         "COSTERM": "單學期",
-        "objective": "提供學生從實驗的角度去了解電子儀器及電子元件之使用方法，並驗證數位電子學原理的入門實驗課程。每一次的實驗設計中均提供實用之數位電子應用電路，提升學生的學習興趣",
-        "outline": "Lab 1：萬用電錶及電源供應器使用\nLab 2：示波器及函數產生器使用\nLab 3：基本電路實驗(克希和夫電流及電壓定律)\nLab 4：RC電路實驗\nLab 5：二極體電路實驗\nLab 6：加法器和減法器\nLab 7：多工器、解多工器及解碼器\nLab 8：七段顯示器\nLab 9：計數器\nLab 10：紅綠燈\n",
-        "teaching_method": "實驗內容講解並實際操作",
-        "syllabus": "如課程大綱所示",
-        "evaluation": "報告40%\n期中考試30%\n期末考試30%\n"
+        "objective": "提供學生從實驗的角度去了解電子儀器及電子元件之使用方法，並驗證數位電子學原理的入門實驗課程。每一次的實驗設計中均提供實用之數位電子應用電路，提升學生的學習興趣\n",
+        "outline": "Lab 1：萬用電錶及電源供應器使用\nLab 2：示波器及函數產生器使用\nLab 3：基本電路實驗 (克希和夫電流及電壓定律)\nLab 4：RC 電路實驗\nLab 5：二極體電路實驗\nLab 6：加法器和減法器\nLab 7：多工器、解多工器及解碼器\nLab 8：七段顯示器\nLab 9：計數器\nLab 10：紅綠燈\n",
+        "teaching_method": "實驗內容講解並實際操作\n",
+        "syllabus": "如課程大綱所示\n",
+        "evaluation": "報告 40%\n期中考試 30%\n期末考試 30%\n"
     },
     "133403201": {
         "pkno": "133403201",
@@ -113,11 +113,11 @@
         "MUST": "必修",
         "credit": "3",
         "COSTERM": "單學期",
-        "objective": "使同學熟悉數位邏輯設計並預備其進入計算機硬體專業或研究領域。",
-        "outline": "Digital & Binary Systems; Combinational Logic Circuits and Design; Combinational Functions & Circuits; Arithmetic unctions & Circuits; Sequential Circuits Analysis and Design",
-        "teaching_method": "講授 作業 考試",
-        "syllabus": "Digital & Binary Systems; (2 wk) Combinational Logic Circuits (4 wk) Gate & Boolean Equations/Circuit Optimization Combinational Logic Design (2 wk) Implementation Technologies & Logic Design/ Combinational and Arithmetic Functions & Circuits (4 wk) Sequential Circuits. (3 wk) Storage Elements, Analysis and Design",
-        "evaluation": "平常成績、作業、期中考、期末考."
+        "objective": "使同學熟悉數位邏輯設計並預備其進入計算機硬體專業或研究領域。\n",
+        "outline": "Digital & Binary Systems; Combinational Logic Circuits and Design; Combinational Functions & Circuits; Arithmetic unctions & Circuits; Sequential Circuits Analysis and Design\n",
+        "teaching_method": "講授 作業 考試\n",
+        "syllabus": "Digital & Binary Systems; (2 wk) Combinational Logic Circuits (4 wk) Gate & Boolean Equations/Circuit Optimization Combinational Logic Design (2 wk) Implementation Technologies & Logic Design/ Combinational and Arithmetic Functions & Circuits (4 wk) Sequential Circuits. (3 wk) Storage Elements, Analysis and Design\n",
+        "evaluation": "平常成績、作業、期中考、期末考.\n"
     },
     "133403237": {
         "pkno": "133403237",
@@ -133,11 +133,11 @@
         "MUST": "T",
         "credit": "0",
         "COSTERM": "單學期",
-        "objective": "透過勞動服務愛校打掃清潔活動等，使學生培養服務精神。",
-        "outline": "每週定期打掃教室與校園花圃清潔，點名與檢查清潔度。",
-        "teaching_method": "每週定期打掃教室與校園花圃清潔，點名與檢查清潔度。",
-        "syllabus": "每週定期打掃教室與校園花圃清潔，點名與檢查清潔度。",
-        "evaluation": "每週定期打掃教室與校園花圃清潔，點名與檢查清潔度。"
+        "objective": "透過勞動服務愛校打掃清潔活動等，使學生培養服務精神。\n",
+        "outline": "每週定期打掃教室與校園花圃清潔，點名與檢查清潔度。\n",
+        "teaching_method": "每週定期打掃教室與校園花圃清潔，點名與檢查清潔度。\n",
+        "syllabus": "每週定期打掃教室與校園花圃清潔，點名與檢查清潔度。\n",
+        "evaluation": "每週定期打掃教室與校園花圃清潔，點名與檢查清潔度。\n"
     },
     "133403253": {
         "pkno": "133403253",
@@ -153,11 +153,11 @@
         "MUST": "必修",
         "credit": "3",
         "COSTERM": "單學期",
-        "objective": "Linear algebra是處理一些應用科學問題中一個重要工具, 在資訊科學中亦不例外, 且說明本課程與其他相關課程的關係. 本課程希望從學生已有的向量觀念開始,介紹一些較抽象的代數觀念, 同時輔以適當軟體練習, 以達到從做中學的目的.",
-        "outline": "1. 向量, 線性方程式 2. 矩陣, 行列式 3. 向量空間與線性變換 4. 固有值, 正交性 5. 基底轉換 6. 對角化",
-        "teaching_method": "1. 強調自主學習 2. 課堂講授為主。",
-        "syllabus": "週次 進度內容 1. 課程相關規定 、 歐式空間中的向量 2. 向量的常, 內積及矩陣運算 3. 聯立方程組 4. 反矩陣 5. 齊次方程組, 子空間及基底 6. 獨立性及維度, 矩陣的秩 7. 歐式空間中的線性變換 考試1　　　　　 　　　　 8. 一般向量空間的基本概念 9. 向量的座標化, 線性變換　 10, 面積, 體積, 外積 11.行列式及Cramer’s Rule 12. 固有值, 13. 對角化 考試2 14. 基底轉換, 矩陣表示 15相似性, 投影 16.Gram Schmidt 正交化 18. 考試3",
-        "evaluation": "1. 三次考試 各佔30% 2.出席 10%"
+        "objective": "Linear algebra 是處理一些應用科學問題中一個重要工具, 在資訊科學中亦不例外, 且說明本課程與其他相關課程的關係. 本課程希望從學生已有的向量觀念開始,介紹一些較抽象的代數觀念, 同時輔以適當軟體練習, 以達到從做中學的目的.\n",
+        "outline": "1. 向量, 線性方程式\n2. 矩陣, 行列式\n3. 向量空間與線性變換\n4. 固有值, 正交性\n5. 基底轉換\n6. 對角化\n",
+        "teaching_method": "1. 強調自主學習\n2. 課堂講授為主。\n",
+        "syllabus": "週次 進度內容\n\n1. 課程相關規定、歐式空間中的向量\n2. 向量的常, 內積及矩陣運算\n3. 聯立方程組\n4. 反矩陣\n5. 齊次方程組, 子空間及基底\n6. 獨立性及維度, 矩陣的秩\n7. 歐式空間中的線性變換 考試 1\n8. 一般向量空間的基本概念\n9. 向量的座標化, 線性變換\n10. 面積, 體積, 外積\n11. 行列式及Cramer’s Rule\n12. 固有值\n13. 對角化 考試 2\n14. 基底轉換, 矩陣表示\n15. 相似性, 投影\n16. Gram Schmidt 正交化\n18. 考試 3\n",
+        "evaluation": "1. 三次考試 各佔 30%\n2. 出席 10%\n"
     },
     "133403269": {
         "pkno": "133403269",
@@ -173,11 +173,11 @@
         "MUST": "必修",
         "credit": "3",
         "COSTERM": "全學年二",
-        "objective": "期使學生能充分掌握微積分這項數學工具，學習分析問題與解決問題的能，力期待培養學生更高深的數學的興趣與學習能力。",
-        "outline": "1. 積分之應用 2. 積分技巧 3. 不定型和瑕積分 4. 級數的收斂與發散 5. 多變數函數、偏導數 6. 梯度 7. 重積分",
-        "teaching_method": "1. 課堂講授為主。 2. 每上完一小節後給予指定習題，作為課後練習。 3. 課後在 Office Hours 由本人及助教提供習題輔導。",
-        "syllabus": "週次 進度內容 1. 利用shell method求旋轉體體積、函數曲線弧長 2. 旋轉體側表面積、簡易微分方程介紹 3. 積分技巧:分部積分、三角代換 4. 部分分式、小考一 5. 不定式、L''Hôpital''s Rule 6. 瑕積分 7. 序列、級數的收斂與發散 8. 判斷級數斂散方法:積分測試、比較測試 9. 期中考 10. 交錯級數、泰勒多項式 11. 冪級數、級數的收斂區間 12. 多變數函數、偏導數 13. 連鎖律、小考二 14. 方向導數、梯度 15. 切平面與法線 16. 迭代積分、重積分、體積 17. 極坐標方法求重積分 18. 期末考",
-        "evaluation": "學期成績計算: 1.三次考試佔 80%,其佔比如下: 第一次考試25%,第二次考試25%,第三次考試30% 2.出席(10%), 上課互動(10%)"
+        "objective": "期使學生能充分掌握微積分這項數學工具，學習分析問題與解決問題的能，力期待培養學生更高深的數學的興趣與學習能力。\n",
+        "outline": "1. 積分之應用\n2. 積分技巧\n3. 不定型和瑕積分\n4. 級數的收斂與發散\n5. 多變數函數、偏導數\n6. 梯度\n7. 重積分\n",
+        "teaching_method": "1. 課堂講授為主。\n2. 每上完一小節後給予指定習題，作為課後練習。\n3. 課後在 Office Hours 由本人及助教提供習題輔導。\n",
+        "syllabus": "週次 進度內容\n\n1. 利用shell method求旋轉體體積、函數曲線弧長\n2. 旋轉體側表面積、簡易微分方程介紹\n3. 積分技巧：分部積分、三角代換\n4. 部分分式、小考一\n5. 不定式、L''Hôpital''s Rule\n6. 瑕積分\n7. 序列、級數的收斂與發散\n8. 判斷級數斂散方法:積分測試、比較測試\n9. 期中考\n10. 交錯級數、泰勒多項式\n11. 冪級數、級數的收斂區間\n12. 多變數函數、偏導數\n13. 連鎖律、小考二\n14. 方向導數、梯度\n15. 切平面與法線\n16. 迭代積分、重積分、體積\n17. 極坐標方法求重積分\n18. 期末考\n",
+        "evaluation": "學期成績計算:\n\n1. 三次考試佔 80%, 其佔比如下: 第一次考試 25%, 第二次考試 25%, 第三次考試 30%\n2. 出席(10%), 上課互動(10%)\n"
     },
     "133406700": {
         "pkno": "133406700",
@@ -193,11 +193,11 @@
         "MUST": "必修",
         "credit": "2",
         "COSTERM": "全學年二",
-        "objective": "此課程是以幫助英文學習者增進字彙、改善閱讀、加強寫作、訓練會話與提昇文化認知能力為宗旨",
-        "outline": "1.主題單字2.會話 3.文法焦點4.發音5.聽力6.快照 7.口說8.寫作9.閱讀10.互換(訊息)",
-        "teaching_method": "經由課堂分組或個別互動練習，學生將增強聽力與日常生活會話能力；透過練習活動與檢討，基礎且清晰之語法結構概念將逐漸提昇學生之讀、寫能力。此外，配合課文，補充講義及文化專題探索，學生將對英語相關語言文化有更深層的認知。主要活動包括:1.發音練習 2.文法與習作 3.聽力",
-        "syllabus": "wk1: Course Introduction & Review wk2: Unit 6 Plans and Choices wk3: Unit 6 Plans and Choices wk4: Unit 6 Plans and Choices wk5: Unit 7 Holidays and Traditions wk6: Unit 7 Holidays and Traditions wk7: Unit 7 Holidays and Traditions wk8: Open & Review wk9: Midterm exam wk10: Unit 8 Innovations wk11: Unit 8 Innovations wk12: Unit 8 Innovations wk13: Unit 9 Discussing Global and Local Issues wk14: Unit 9 Discussing Global and Local Issues wk15: Unit 9 Discussing Global and Local Issues wk16: Final Exam wk17: Movie Appreciation wk18: Game Time for Projects",
-        "evaluation": "1.期中考25% 2.期末考30% 3.出席&課堂參與15% 4.小考+作業 10% 5.驗收成果(口試&展演&訪談) 20%"
+        "objective": "此課程是以幫助英文學習者增進字彙、改善閱讀、加強寫作、訓練會話與提昇文化認知能力為宗旨\n",
+        "outline": "1. 主題單字\n2. 會話\n3. 文法焦點\n4. 發音\n5. 聽力\n6. 快照\n7. 口說\n8. 寫作\n9. 閱讀\n10. 互換 (訊息)\n",
+        "teaching_method": "經由課堂分組或個別互動練習，學生將增強聽力與日常生活會話能力；透過練習活動與檢討，基礎且清晰之語法結構概念將逐漸提昇學生之讀、寫能力。此外，配合課文，補充講義及文化專題探索，學生將對英語相關語言文化有更深層的認知。主要活動包括：\n\n1. 發音練習\n2. 文法與習作\n3. 聽力\n",
+        "syllabus": "wk1: Course Introduction & Review\nwk2: Unit 6 Plans and Choices\nwk3: Unit 6 Plans and Choices\nwk4: Unit 6 Plans and Choices\nwk5: Unit 7 Holidays and Traditions\nwk6: Unit 7 Holidays and Traditions\nwk7: Unit 7 Holidays and Traditions\nwk8: Open & Review\nwk9: Midterm exam\nwk10: Unit 8 Innovations\nwk11: Unit 8 Innovations\nwk12: Unit 8 Innovations\nwk13: Unit 9 Discussing Global and Local Issues\nwk14: Unit 9 Discussing Global and Local Issues\nwk15: Unit 9 Discussing Global and Local Issues\nwk16: Final Exam\nwk17: Movie Appreciation\nwk18: Game Time for Projects\n",
+        "evaluation": "1. 期中考 25%\n2. 期末考 30%\n3. 出席 & 課堂參與 15%\n4. 小考 + 作業 10%\n5. 驗收成果 (口試 & 展演 & 訪談) 20%\n"
     },
     "133409516": {
         "pkno": "133409516",
@@ -213,11 +213,11 @@
         "MUST": "必修",
         "credit": "2",
         "COSTERM": "單學期",
-        "objective": "本課程針對非海洋科學主修之大一學生，以描述性講授與宏觀的角度，簡介海洋的物理、化學性質、與海洋地質及生物。期能使學生對海洋科學有概括性認識與了解。",
-        "outline": "本課程簡介地球與海洋的起源、海洋科學發展史、大氣與海洋環流、潮汐與波浪、海水的組成與海洋的結構、海洋化學與海洋生物、浮游生物與藻類、地球的結構與資源、海洋沉積物與海洋演變史。",
-        "teaching_method": "課程講授、實驗室參訪與實習、多媒體教學與學習",
-        "syllabus": "1) 課程簡介、地球與海洋的起源、海洋科學發展史 2) 大氣與海洋環流 3) 潮汐與波浪 4) 海水的組成與海洋的結構 5) 海洋化學簡介 6) 海洋生物簡介 7) 浮游生物與藻類 8) 地球的結構與資源 9) 海洋沉積物與海洋演變史 10) 校內特色實驗室參觀與實習 11) 海洋科技博物館參觀與實習 12) 海洋科學多媒體教材教學 13) 海洋科學多媒體教材教學 14) 海洋科學多媒體教材教學 15) 海洋科學多媒體教材教學 16) 海洋科學多媒體教材教學 17) 海洋科學多媒體教材教學 18) 期末會考",
-        "evaluation": "平時考核成績及期末會考"
+        "objective": "本課程針對非海洋科學主修之大一學生，以描述性講授與宏觀的角度，簡介海洋的物理、化學性質、與海洋地質及生物。期能使學生對海洋科學有概括性認識與了解。\n",
+        "outline": "本課程簡介地球與海洋的起源、海洋科學發展史、大氣與海洋環流、潮汐與波浪、海水的組成與海洋的結構、海洋化學與海洋生物、浮游生物與藻類、地球的結構與資源、海洋沉積物與海洋演變史。\n",
+        "teaching_method": "課程講授、實驗室參訪與實習、多媒體教學與學習\n",
+        "syllabus": "1. 課程簡介、地球與海洋的起源、海洋科學發展史\n2. 大氣與海洋環流\n3. 潮汐與波浪\n4. 海水的組成與海洋的結構\n5. 海洋化學簡介\n6. 海洋生物簡介\n7. 浮游生物與藻類\n8. 地球的結構與資源\n9. 海洋沉積物與海洋演變史\n10. 校內特色實驗室參觀與實習\n11. 海洋科技博物館參觀與實習\n12. 海洋科學多媒體教材教學\n13. 海洋科學多媒體教材教學\n14. 海洋科學多媒體教材教學\n15. 海洋科學多媒體教材教學\n16. 海洋科學多媒體教材教學\n17. 海洋科學多媒體教材教學\n18. 期末會考\n",
+        "evaluation": "平時考核成績及期末會考\n"
     },
     "133409722": {
         "pkno": "133409722",
@@ -233,10 +233,10 @@
         "MUST": "必修",
         "credit": "2",
         "COSTERM": "單學期",
-        "objective": "1.本課程以講授中國古典寓言為主，共擇選寓言十六篇（詳目如下表）與同學共同研讀。 2.寓言作為一種文學體裁，是指用假說的故事，或將自然物擬人化的手法，說明道理，以便達到借古勸今、以物諷人的效果，每每帶有勸戒的教育性質；凡能勘透人情世故，且深具智慧者，始能從日常生活中提煉或創作出「寓言」，用於嘲諷、警世，或當下說服他人。中國傳統的寓言，以見於先秦載籍者最富原創意義與開創性，不僅富於勸戒、教育意義，有時亦深具幽默感，頗有令人在發笑當下，即刻冷然醒悟的效果。這些先秦以降流傳下來的寓言，因膾炙人口，慢慢衍成成語，眾口流佈，耳熟能詳，但今人罕能知其出處暨原本，因此之故，藉由本課程的開設，讓授課者權充一個導遊的角色，引領同學閱讀原始文獻，並進入古人有時嘲諷犀利，有時詼諧幽默，有時古怪恢奇的世界。 3.強化中文基本句型、辭彙、文字之理解能力。 4.涵泳傳統文化，培養欣賞中國文學之興趣與能力。 5.培養運用流暢文字，表達個人理念與情感之能力。",
-        "outline": "1.〈二桃殺三士〉‧《晏子春秋》 2.〈國氏善盜〉‧選自《列子》 3.〈牝牡驪黃〉‧選自《列子》 4.〈諱疾忌醫〉‧選自《韓非子》 5.〈狗猛酒酸〉‧選自《韓非子》 6.〈社鼠為患〉‧選自《韓非子》 7.〈猴子救月〉‧選自《法苑珠林》-【第17、18週：教師彈性補充教學，預備教材。】 8.〈宋清傳〉‧唐‧柳宗元 撰 9.〈種樹郭橐駝傳〉‧唐‧柳宗元 撰 10.〈捕蛇者說〉‧唐‧柳宗元 撰-【第17、18週：教師彈性補充教學，預備教材。】 11.〈梓人傳〉‧唐‧柳宗元 撰-【第17、18週：教師彈性補充教學，預備教材。】 12.〈日喻贈吳彥律〉‧宋‧蘇軾 撰 13.〈焚驢志〉‧金‧王若虛 撰 14.〈司馬季主論卜〉‧明‧劉基 撰 15.〈中山狼傳〉‧明‧馬中錫 撰 16.〈芋老人傳〉‧清‧周容 撰",
-        "teaching_method": "1、教師講授。 2、提供電子檔案講解、賞析。 3、分組報告與討論。",
-        "syllabus": "第1週：〈二桃殺三士〉‧《晏子春秋》 第2週：〈國氏善盜〉‧選自《列子》 第3週：〈牝牡驪黃〉‧選自《列子》 第4週：〈諱疾忌醫〉‧選自《韓非子》 第5週：.〈狗猛酒酸〉‧選自《韓非子》 第6週：〈社鼠為患〉‧選自《韓非子》 第7週：〈猴子救月〉‧選自《法苑珠林》-【第17、18週：教師彈性補充教學，預備教材。】 第8週：期中考。（〈宋清傳〉‧唐‧柳宗元 撰） 第9週：種樹郭橐駝傳〉‧唐‧柳宗元 撰 第10週：捕蛇者說〉‧唐‧柳宗元 撰-【第17、18週：教師彈性補充教學，預備教材。】 第11週：〈梓人傳〉‧唐‧柳宗元 撰-【第17、18週：教師彈性補充教學，預備教材。】 第12週：〈日喻贈吳彥律〉‧宋‧蘇軾 撰 第13週：焚驢志〉‧金‧王若虛 撰 第14週：〈司馬季主論卜〉‧明‧劉基 撰 第15週：〈中山狼傳〉‧明‧馬中錫 撰 第16週：〈芋老人傳〉‧清‧周容 撰 第17週：教師彈性補充教學。 第18週：教師彈性補充教學。 ※17-18: Teachers’ flexible supplementary teaching.",
-        "evaluation": "1．閱讀與寫作2篇（作文）．30％。 2．分組報告及作業．30％。。 3．期末考．40％。 4．以上學期總成績之計算配分比，將視學生學習狀況而另予調配。"
+        "objective": "1. 本課程以講授中國古典寓言為主，共擇選寓言十六篇（詳目如下表）與同學共同研讀。\n2. 寓言作為一種文學體裁，是指用假說的故事，或將自然物擬人化的手法，說明道理，以便達到借古勸今、以物諷人的效果，每每帶有勸戒的教育性質；凡能勘透人情世故，且深具智慧者，始能從日常生活中提煉或創作出「寓言」，用於嘲諷、警世，或當下說服他人。中國傳統的寓言，以見於先秦載籍者最富原創意義與開創性，不僅富於勸戒、教育意義，有時亦深具幽默感，頗有令人在發笑當下，即刻冷然醒悟的效果。這些先秦以降流傳下來的寓言，因膾炙人口，慢慢衍成成語，眾口流佈，耳熟能詳，但今人罕能知其出處暨原本，因此之故，藉由本課程的開設，讓授課者權充一個導遊的角色，引領同學閱讀原始文獻，並進入古人有時嘲諷犀利，有時詼諧幽默，有時古怪恢奇的世界。\n3. 強化中文基本句型、辭彙、文字之理解能力。\n4. 涵泳傳統文化，培養欣賞中國文學之興趣與能力。\n5. 培養運用流暢文字，表達個人理念與情感之能力。\n",
+        "outline": "1. 〈二桃殺三士〉．《晏子春秋》\n2. 〈國氏善盜〉．選自《列子》\n3. 〈牝牡驪黃〉．選自《列子》\n4. 〈諱疾忌醫〉．選自《韓非子》\n5. 〈狗猛酒酸〉．選自《韓非子》\n6. 〈社鼠為患〉．選自《韓非子》\n7. 〈猴子救月〉．選自《法苑珠林》-【第17、18週：教師彈性補充教學，預備教材。】\n\n8. 〈宋清傳〉．唐．柳宗元 撰\n9. 〈種樹郭橐駝傳〉．唐．柳宗元 撰\n10. 〈捕蛇者說〉．唐．柳宗元 撰 -【第17、18週：教師彈性補充教學，預備教材。】\n11. 〈梓人傳〉．唐．柳宗元 撰 -【第17、18週：教師彈性補充教學，預備教材。】\n12. 〈日喻贈吳彥律〉．宋．蘇軾 撰\n13. 〈焚驢志〉．金．王若虛 撰\n14. 〈司馬季主論卜〉．明．劉基 撰\n15. 〈中山狼傳〉．明．馬中錫 撰\n16. 〈芋老人傳〉．清．周容 撰\n",
+        "teaching_method": "1. 教師講授。\n2. 提供電子檔案講解、賞析。\n3. 分組報告與討論。\n",
+        "syllabus": "第1週：〈二桃殺三士〉．《晏子春秋》\n第2週：〈國氏善盜〉．選自《列子》\n第3週：〈牝牡驪黃〉．選自《列子》\n第4週：〈諱疾忌醫〉．選自《韓非子》\n第5週：〈狗猛酒酸〉．選自《韓非子》\n第6週：〈社鼠為患〉．選自《韓非子》\n第7週：〈猴子救月〉．選自《法苑珠林》-【第17、18週：教師彈性補充教學，預備教材。】\n第8週：期中考。（〈宋清傳〉．唐．柳宗元 撰）\n第9週：種樹郭橐駝傳〉．唐．柳宗元 撰\n第10週：捕蛇者說〉．唐．柳宗元 撰 -【第17、18週：教師彈性補充教學，預備教材。】\n第11週：〈梓人傳〉．唐．柳宗元 撰 -【第17、18週：教師彈性補充教學，預備教材。】\n第12週：〈日喻贈吳彥律〉．宋．蘇軾 撰\n第13週：焚驢志〉．金．王若虛 撰\n第14週：〈司馬季主論卜〉．明．劉基 撰\n第15週：〈中山狼傳〉．明．馬中錫 撰\n第16週：〈芋老人傳〉．清．周容 撰\n第17週：教師彈性補充教學。\n第18週：教師彈性補充教學。\n※17-18: Teachers’ flexible supplementary teaching.\n",
+        "evaluation": "1. 閱讀與寫作2篇（作文）．30%。\n2. 分組報告及作業．30%。\n3. 期末考．40%。\n4. 以上學期總成績之計算配分比，將視學生學習狀況而另予調配。\n"
     }
 }

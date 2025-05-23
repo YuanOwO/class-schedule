@@ -183,12 +183,18 @@ const render = (semester) => {
                 div.setAttribute("data-bs-title", "教師：" + cls["lecturer"]);
 
                 // 教室名稱
-                let ch_name; // 樓館名稱
+                let building, // 樓館名稱
+                    classroom = cls.classroom; // 教室代碼
 
-                if (cls.classroom === "SPF006") {
-                    ch_name = "游泳池";
+                if (classroom === "ONL") {
+                    building = "線上課程";
+                } else if (classroom === "SPF006") {
+                    building = "游泳池";
+                } else if (classroom.startsWith("ADM")) {
+                    building = "行政大樓";
+                    if (BUILDINGS[classroom]) building += " " + BUILDINGS[classroom];
                 } else {
-                    ch_name = BUILDINGS[cls.classroom.slice(0, 3)];
+                    building = BUILDINGS[classroom.slice(0, 3)];
                 }
 
                 div = course.appendChild(document.createElement("div"));
@@ -196,7 +202,7 @@ const render = (semester) => {
                 // div.classList.add("fw-light");
                 div.setAttribute("data-bs-toggle", "tooltip");
                 div.setAttribute("data-bs-placement", "bottom");
-                div.setAttribute("data-bs-title", ch_name);
+                div.setAttribute("data-bs-title", building);
             }
         }
     }
@@ -245,6 +251,7 @@ const show_info = (semester, code) => {
 
 (() => {
     console.log("Hello!", new Date());
+    showdown.setOption("simpleLineBreaks", true); // 直接換行
 
     const select = document.getElementById("semester"); // 學期選單
     let semester; // 要顯示的學期
