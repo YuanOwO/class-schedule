@@ -1,5 +1,17 @@
+#semester {
+    width: 7rem;
+}
+
+@media (min-width: 768px) {
+    .container,
+    .container-md,
+    .container-sm {
+        --bs-gutter-x: 0rem;
+    }
+}
+
 .table {
-    min-width: 720px;
+    min-width: calc(720px - var(--bs-gutter-x));
     table-layout: fixed;
 }
 

@@ -33,6 +33,35 @@
                 </div>
             </div>
 
+            <div class="row gx-3 justify-content-end align-items-center mb-3">
+                <div class="col-auto">
+                    <label for="semester" class="col-form-label">顯示模式</label>
+                </div>
+                <div class="col-auto">
+                    <div class="btn-group" id="showmode" role="group">
+                        <input
+                            type="radio"
+                            class="btn-check"
+                            id="btnradio1"
+                            name="showmode"
+                            value="1"
+                            autocomplete="off"
+                            checked
+                        />
+                        <label class="btn btn-outline-secondary" for="btnradio1">課表</label>
+                        <input
+                            type="radio"
+                            class="btn-check"
+                            id="btnradio2"
+                            name="showmode"
+                            value="2"
+                            autocomplete="off"
+                        />
+                        <label class="btn btn-outline-secondary" for="btnradio2">清單</label>
+                    </div>
+                </div>
+            </div>
+
             <div class="table-responsive">
                 <table class="table table-striped table-hover table-bordered text-center align-middle">
                     <thead></thead>
