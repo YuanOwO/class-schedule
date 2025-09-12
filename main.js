@@ -274,7 +274,11 @@ const switch_to = (semester = undefined) => {
     // 3. 選單的值
     // 4. 預設值
     if (!semester)
-        semester = location.hash.slice(1) || localStorage.getItem("semester") || select.value || DEFAULT_SEMESTER;
+        semester =
+            location.hash.slice(1) ||
+            localStorage.getItem("semester") ||
+            document.getElementById("semester").value ||
+            DEFAULT_SEMESTER;
 
     // 更新學期資料
     // console.log("Switching to semester:", semester); // 顯示切換學期的訊息
