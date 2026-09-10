@@ -3,7 +3,7 @@ const CONFIG = {
     seg: [Infinity, -Infinity],
 };
 
-const DEFAULT_SEMESTER = "1142"; // 預設學期
+const DEFAULT_SEMESTER = "1151"; // 預設學期
 const SCHEDULE_DATA = {};
 const infoModal = new bootstrap.Modal("#infoModal"); // 課程資訊 Modal
 
